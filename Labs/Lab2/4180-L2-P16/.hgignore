@@ -1,0 +1,9 @@
+^BUILD$
+^.clangd$
+^.mbed$
+^compile_commands.json$
+^mbed$
+^.cache$
+^X_NUCLEO_53L0A1/ST_INTERFACES$
+^X_NUCLEO_53L0A1/X_NUCLEO_COMMON$
+^X_NUCLEO_53L0A1$

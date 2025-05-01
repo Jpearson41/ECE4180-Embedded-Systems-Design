@@ -1,0 +1,7 @@
+^BUILD$
+^.mbed$
+^compile_commands.json$
+^.cache$
+^mbed$
+^.clangd$
+^USBDevice$

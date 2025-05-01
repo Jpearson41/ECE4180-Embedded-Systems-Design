@@ -1,0 +1,11 @@
+^BUILD$
+^compile_commands.json$
+^.clangd$
+^.mbed$
+^.cache$
+^mbed$
+^4DGL-uLCD-SE$
+^SDFileSystem/FATFileSystem$
+^SDFileSystem$
+^mbed-rtos$
+^wave_player_appbd$

@@ -1,0 +1,7 @@
+^BUILD$
+^.mbed$
+^.clangd$
+^.cache$
+^mbed$
+^compile_commands.json$
+^HC_SR04_Ultrasonic_Library$

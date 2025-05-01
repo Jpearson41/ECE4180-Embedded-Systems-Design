@@ -1,0 +1,5 @@
+data/main.cpp.i
+data/USBHost.lib.i
+data/4DGL-uLCD-SE.lib.i
+data/wave_player_appbd.lib.i
+data/mbed.bld.i

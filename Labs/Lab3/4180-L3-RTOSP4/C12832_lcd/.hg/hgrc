@@ -1,0 +1,5 @@
+[ui]
+ignore.local = .hg/hgignore
+[paths]
+mbed-studio-cache = /home/studio/mbed-studio-data/library-cache/os.mbed.com/users/dreschpe/code/C12832_lcd
+default = http://mbed.org/users/dreschpe/code/C12832_lcd/

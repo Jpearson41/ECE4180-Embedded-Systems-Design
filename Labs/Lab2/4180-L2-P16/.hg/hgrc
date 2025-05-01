@@ -1,0 +1,4 @@
+[ui]
+ignore.local = .hg/hgignore
+[paths]
+default = https://os.mbed.com/users/4180_1/code/HelloWorld_VL53L0X_LPC1768/

@@ -1,0 +1,8 @@
+^BUILD$
+^.clangd$
+^.cache$
+^.mbed$
+^mbed$
+^compile_commands.json$
+^4DGL-uLCD-SE/4DGL-uLCD-SE$
+^4DGL-uLCD-SE$

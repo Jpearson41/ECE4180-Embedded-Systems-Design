@@ -1,0 +1,4 @@
+[ui]
+ignore.local = .hg/hgignore
+[paths]
+default = https://os.mbed.com/users/4180_1/code/SPW2430_Microphone_Hello_World/

@@ -1,0 +1,5 @@
+[ui]
+ignore.local = .hg/hgignore
+[paths]
+mbed-studio-cache = /home/studio/mbed-studio-data/library-cache/developer.mbed.org/users/4180_1/code/LSM9DS1_Library_cal
+default = https://developer.mbed.org/users/4180_1/code/LSM9DS1_Library_cal/

@@ -1,0 +1,9 @@
+^BUILD$
+^.clangd$
+^.cache$
+^LSM9DS1_Library_cal/mbed$
+^mbed$
+^compile_commands.json$
+^.mbed$
+^LSM9DS1_Library_cal/PinDetect$
+^LSM9DS1_Library_cal$

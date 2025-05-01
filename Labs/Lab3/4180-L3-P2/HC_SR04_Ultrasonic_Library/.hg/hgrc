@@ -1,0 +1,4 @@
+[ui]
+ignore.local = .hg/hgignore
+[paths]
+default = http://developer.mbed.org/users/ejteb/code/HC_SR04_Ultrasonic_Library/

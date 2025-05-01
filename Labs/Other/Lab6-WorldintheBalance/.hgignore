@@ -1,0 +1,11 @@
+^BUILD$
+^compile_commands.json$
+^.mbed$
+^.clangd$
+^.cache$
+^mbed$
+^4DGL-uLCD-SE$
+^MMA8452$
+^PinDetect$
+^SDFileSystem/FATFileSystem$
+^SDFileSystem$

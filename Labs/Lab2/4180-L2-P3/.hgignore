@@ -1,0 +1,10 @@
+^BUILD$
+^.clangd$
+^.cache$
+^mbed$
+^.mbed$
+^compile_commands.json$
+^4DGL-uLCD-SE/4DGL-uLCD-SE$
+^4DGL-uLCD-SE$
+^LSM9DS1_Library_cal/PinDetect$
+^LSM9DS1_Library_cal$

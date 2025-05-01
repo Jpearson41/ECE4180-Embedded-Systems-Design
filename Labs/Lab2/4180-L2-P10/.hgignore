@@ -1,0 +1,7 @@
+^BUILD$
+^compile_commands.json$
+^.mbed$
+^.cache$
+^mbed$
+^.clangd$
+^Motor$
